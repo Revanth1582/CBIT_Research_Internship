@@ -1,8 +1,8 @@
 # CBIT_Research_Internship
 
-Internship Progress 
+INTERNSHIP PROGERSSS
 
-# 🧠 Python Essentials - CBIT Research Internship
+1.# 🧠 Python Essentials - CBIT Research Internship
 
 ![Coursera Badge](https://img.shields.io/badge/Coursera-Completed-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
