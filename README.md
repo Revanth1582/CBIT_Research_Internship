@@ -18,12 +18,5 @@ The course was delivered via Coursera in collaboration with **IBM** and **Google
 
 ---
 
-## 🛠️ Skills Acquired
-
-- ✅ Python Programming Basics
-- ✅ Data Types, Loops, and Functions
-- ✅ Working with Libraries: NumPy, Pandas, Matplotlib
-- ✅ Data Cleaning & Manipulation
-- ✅ File Handling
-- ✅ Basic Debugging & Error Handling
-- ✅ Introduction to Jupyter Notebooks
+## 🛠️ 
+Summary: Learned the fundamentals of Python including variables, conditionals, loops, and basic functions.
